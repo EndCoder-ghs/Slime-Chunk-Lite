@@ -6,8 +6,6 @@
 ## PASTE STACKTRACE HERE ##
 ###########################
 ```
-
-
 **Plugin Version:** 
 
 **Server Type (Spigot/Paperspigot/etc):** 
